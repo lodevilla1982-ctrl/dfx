@@ -2,5 +2,4 @@ streamlit
 opencv-python-headless
 numpy
 matplotlib
-scikit-learn
 ezdxf

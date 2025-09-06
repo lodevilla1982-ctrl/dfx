@@ -3,3 +3,4 @@ opencv-python-headless
 numpy
 ezdxf
 python-potrace
+scikit-image
